@@ -3,7 +3,7 @@ module.exports = {
     title: `Tri Blogs`,
     author: {
       name: `Tri Blogs`,
-      summary: `Written by Tri Blogs : We have specifically designed this webpage to become a digital home for enthusiastic readers, 
+      summary: `: We have specifically designed this webpage to become a digital home for enthusiastic readers, 
                 and to help our reader's build their knowledge.`,
     },
     description: `Tri Blog`,
