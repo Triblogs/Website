@@ -4,7 +4,7 @@ title: Travelog
 date: "2020-04-29"
 description: "A brief blog on travel industry and how it'll shape after the coivd-19 outbreak "
 ---
-![Chinese Salty Egg](./travel.jpeg)
+![Travel](./Travel.jpeg)
  Travel
 Images of tropical islands , white sand beaches, clean blue water, and palm trees in your mind?
 
