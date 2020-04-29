@@ -7,11 +7,11 @@ description: "A brief blog on travel industry and how it'll shape after the coiv
 
  Travel!
  
-Images of tropical islands , white sand beaches, clean blue water, and palm trees in your mind?
+Images of tropical islands , white sand beaches, clean blue water and palm trees in your mind?
 
 Certainly you would say, right !
 
-The beauty of nature has attracted people to it’s very own shelter, these days the border’s of the map don’t matter. From exploring the wilderness of the amazon rainforest to those romantic getaways in maldives, people have explored it all.
+The beauty of nature has attracted people to it’s very own shelter, these days the border’s of the map don’t matter. From exploring the wilderness of the AMAZON RAINFOREST to those romantic getaways in MALDIVES, people have explored it all.
 
 From lush green land to deserted land, small homes to big monuments, variety of people to various species, this globe has a plethora of spots to visit. Travel is a way to explore the beauty of this world. These days travel has become a hobby to most of the people across the globe. With the great network that we have in the present world it is almost possible to feel each and every corner of the world. Everyday, billions of people travel for various purposes. It has become so important in the present generation as many people are benefited from it.
 
