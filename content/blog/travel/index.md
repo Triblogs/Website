@@ -5,7 +5,7 @@ description: "A brief blog on travel industry and how it'll shape after the coiv
 ---
 ![Travel](./Travel.jpeg)
 
- Travel
+ Travel!
  
 Images of tropical islands , white sand beaches, clean blue water, and palm trees in your mind?
 
