@@ -59,7 +59,7 @@ const Layout = ({ location, title, children }) => {
       <header>{header}</header>
       <main>{children}</main>
       <footer>
-     <pre>  Hey guys grab this oppurtunity to put the best blogs in our website. Reach us out at <b> <i> triblogs20@gmail.com </i> </b> </pre>
+     <p>  Hey guys grab this oppurtunity to put the best blogs in our website. Reach us out at <b> <i> triblogs20@gmail.com </i> </b> </p>
       </footer>
     </div>
   )
