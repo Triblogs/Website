@@ -3,7 +3,7 @@
   "private": true,
   "description": "We have specifically designed this webpage to become a digital home for enthusiastic readers, and to help our reader's build their knowledge.",
   "version": "0.1.0",
-  "author": "Tri Blogs <triblogs20@gmail.com>",
+  "author": "Tri Blogs<triblogs20@gmail.com>",
   "bugs": {
     "url": "https://github.com/gatsbyjs/gatsby/issues"
   },
@@ -39,7 +39,7 @@
     "prettier": "2.0.5"
   },
   "homepage": "https://triblogs.netlify.app/",
-  "keywords": [
+  "keywords": []
     "gatsby"
   ],
   "license": "MIT",
