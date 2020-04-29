@@ -1,14 +1,15 @@
 module.exports = {
   siteMetadata: {
-    title: `Gatsby Starter Blog`,
+    title: `Tri Blogs`,
     author: {
-      name: `Kyle Mathews`,
-      summary: `who lives and works in San Francisco building useful things.`,
+      name: `Tri Blogs`,
+      summary: `Written by Tri Blogs : We have specifically designed this webpage to become a digital home for enthusiastic readers, 
+                and to help our reader's build their knowledge.`,
     },
-    description: `A starter blog demonstrating what Gatsby can do.`,
-    siteUrl: `https://gatsby-starter-blog-demo.netlify.com/`,
+    description: `Tri Blog`,
+    siteUrl: `https://triblogs.netlify.app/`,
     social: {
-      twitter: `kylemathews`,
+      twitter: `blogs_tri`,
     },
   },
   plugins: [
@@ -60,8 +61,8 @@ module.exports = {
     {
       resolve: `gatsby-plugin-manifest`,
       options: {
-        name: `Gatsby Starter Blog`,
-        short_name: `GatsbyJS`,
+        name: `Tri Blog`,
+        short_name: `TB`,
         start_url: `/`,
         background_color: `#ffffff`,
         theme_color: `#663399`,
